@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+@import "../src/app/styles/page.scss";
+@import "../src/app/styles/cv-p-font";
+@import "../src/app/styles/shared";
