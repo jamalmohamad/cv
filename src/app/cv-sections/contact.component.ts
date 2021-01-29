@@ -4,7 +4,7 @@ import { faCoffee, faMobile, faBlog, faLink } from '@fortawesome/free-solid-svg-
 @Component({
   selector: 'app-contact',
   template: `
-    <div class="contact-header">Contact</div>
+    <div class="contact-header">CONTACT</div>
     <p class="p-font"><fa-icon [icon]="faLink"></fa-icon> jamalmohamad.github.io</p>
     <p class="p-font"><i class="fab fa-linkedin-in"></i> linkedin.com/in/mohamad-7b8044173</p>
     <p class="p-font">Github :github.com/jamalmohamad</p>

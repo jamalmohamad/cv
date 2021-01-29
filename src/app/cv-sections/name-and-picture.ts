@@ -7,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
       <div class="row">
         <div class="col-md-9">
             <p class="p-font">MOHAMMED JAMAL</p>
-            <p class="p-font">JavaScript Developer</p>
+            <p class="p-font">Developer</p>
         </div>
-        <div class="col-md-3"> <img class="img-circle" src="../../assets/me.jpeg" width="100px" height="120px"></div>
+        <div class="col-md-3"> <img class="img-circle" alt="mohammed" src="../../assets/me.jpeg" width="100px" height="120px"></div>
       </div>
     </section>
   `,

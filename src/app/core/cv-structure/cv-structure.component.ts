@@ -10,13 +10,16 @@ import { Component, OnInit } from '@angular/core';
         <app-about-contact></app-about-contact>
         <div class="row">
           <div class="col-md-8">
-            <app-experience></app-experience>
+              <app-experience></app-experience>
+              <app-certifications></app-certifications>
+              <app-projects></app-projects>
+              <app-education></app-education>
+
           </div>
           
           <div class="vl col-md-4">
             <app-contact></app-contact>
             <app-languages></app-languages>
-            <app-education></app-education>
             <app-skills></app-skills>
           </div>
         </div>
