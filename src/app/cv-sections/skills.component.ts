@@ -3,31 +3,31 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'app-skills',
   template: `
-     <div class="aboutme-header"><p>SKILLS</p></div>
+     <div class="aboutme-header"><p>SKILLS <i class="cv-i"><i class="fa fa-tasks" aria-hidden="true"></i></i></p></div>
      <div class="row">
        <div class="col-md-12">
          <ul>
-             <li>Agile</li>
-             <li>JavaScript/Typescript</li>
-             <li>Java</li>
-             <li>Angular 6+</li>
-             <li>Spring Boot</li>
-             <li>SPA</li>
-             <li>TestCafé</li>
-             <li>Cucumber</li>
-             <li>PostgreSQL</li>
-             <li>MongoDB (familiar)</li>
-             <li>Git/Github/Gitlab</li>
-             <li>Ubuntu/MacOSX</li>
-             <li>MS office</li>
-             <li>Libre Office</li>
-             <li>LaTex</li>
-             <li>OOP</li>
-             <li>BPM/LDM</li>
-             <li>TDD/BDD</li>
-             <li>Invision app</li>
-             <li>NPM/NVM</li>
-             <li>Heroku</li>
+             <li class="p-font">Agile</li>
+             <li class="p-font">JavaScript/Typescript</li>
+             <li class="p-font">Java</li>
+             <li class="p-font">Angular 6+</li>
+             <li class="p-font">Spring Boot</li>
+             <li class="p-font">SPA</li>
+             <li class="p-font">TestCafé</li>
+             <li class="p-font">Cucumber</li>
+             <li class="p-font">PostgreSQL</li>
+             <li class="p-font">MongoDB (familiar)</li>
+             <li class="p-font">Git/Github/Gitlab</li>
+             <li class="p-font">Ubuntu/MacOSX</li>
+             <li class="p-font">MS office</li>
+             <li class="p-font">Libre Office</li>
+             <li class="p-font">LaTex</li>
+             <li class="p-font">OOP</li>
+             <li class="p-font">BPM/LDM</li>
+             <li class="p-font">TDD/BDD</li>
+             <li class="p-font">Invision app</li>
+             <li class="p-font">NPM/NVM</li>
+             <li class="p-font">Heroku</li>
              
          
          </ul>
