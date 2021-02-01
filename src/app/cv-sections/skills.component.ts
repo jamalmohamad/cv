@@ -8,13 +8,15 @@ import { Component, OnInit } from '@angular/core';
        <div class="col-md-12">
          <ul>
              <li class="p-font">Agile</li>
-             <li class="p-font">JavaScript/Typescript</li>
-             <li class="p-font">Java</li>
+             <li class="p-font">ES6 JavaScript/Typescript</li>
+             <li class="p-font">Java / JavaEE</li>
+             <li class="p-font">React (learning phase)</li>
              <li class="p-font">Angular 6+</li>
              <li class="p-font">Spring Boot</li>
              <li class="p-font">SPA</li>
              <li class="p-font">TestCafé</li>
              <li class="p-font">Cucumber</li>
+             <li class="p-font">GraphQL (learning phase)</li>
              <li class="p-font">PostgreSQL</li>
              <li class="p-font">MongoDB (familiar)</li>
              <li class="p-font">Git/Github/Gitlab</li>
@@ -28,8 +30,6 @@ import { Component, OnInit } from '@angular/core';
              <li class="p-font">Invision app</li>
              <li class="p-font">NPM/NVM</li>
              <li class="p-font">Heroku</li>
-             
-         
          </ul>
          
        </div>
