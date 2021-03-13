@@ -14,6 +14,12 @@ import { LanguagesComponent } from './cv-sections/languages.component';
 import { ProjectsComponent } from './cv-sections/projects.component';
 import { ExperienceComponent } from './cv-sections/experience.component';
 import { FontAwesomeModule } from "@fortawesome/angular-fontawesome";
+import {ProfileComponent} from "./templates/modern_cv/cv-sections/profile.component";
+import {ModernCVStructure} from "./templates/modern_cv/core/modern-cv-structure";
+import {MainPageComponent} from "./core/pages/main/main-page.component";
+import {AppGalaryComponent} from "./core/pages/templates-galary/galary.component";
+import {AppLoginComponent} from "./core/pages/login/shared/login.component";
+import {AppLoginCoreComponent} from "./core/pages/login/core/login-core.component";
 
 @NgModule({
   declarations: [
@@ -27,7 +33,13 @@ import { FontAwesomeModule } from "@fortawesome/angular-fontawesome";
     CertificationsComponent,
     LanguagesComponent,
     ProjectsComponent,
-    ExperienceComponent
+    ExperienceComponent,
+    ProfileComponent,
+    ModernCVStructure,
+    MainPageComponent,
+    AppGalaryComponent,
+    AppLoginComponent,
+    AppLoginCoreComponent
   ],
   imports: [
     BrowserModule,
