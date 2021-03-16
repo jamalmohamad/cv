@@ -11,6 +11,6 @@ import com.cv.cvapi.models.Role;
 @Repository
 public interface RoleRepository extends JpaRepository<Role, Long> {
 	
-	Optional<Role> findByUsername(ERole name);
+	Optional<Role> findByName(ERole name);
 
 }
