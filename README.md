@@ -3,7 +3,7 @@
 
 - [X] Phase 1 (CV Design)
     - [X] Basic-cv
-    - modern-cv
+    - [ ] modern-cv
     
 - [ ] Phase 2
     - Deploy the app to github pages
