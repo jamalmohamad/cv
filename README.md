@@ -1,3 +1,5 @@
+![AUR last modified](https://img.shields.io/aur/last-modified/cv)
+[![made-with-angular](https://img.shields.io/badge/Made%20with-Angular-blue.svg)](https://angular.io/)
 # CV
 #### A simulating app with angular
 
