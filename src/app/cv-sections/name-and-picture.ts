@@ -8,7 +8,7 @@ import { faLocationArrow } from '@fortawesome/free-solid-svg-icons';
       <div class="row">
         <div class="col-md-9">
             <p class="p-font-1">MOHAMMED JAMAL</p>
-            <p class="p-font-2">DEVELOPER</p>
+            <p class="p-font-2">JAVA DEVELOPER</p>
 
             <p class="p-font-3"><fa-icon [icon]="faLocationArrow"></fa-icon> Budapest - Hungary</p>
         </div>

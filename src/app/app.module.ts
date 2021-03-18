@@ -20,6 +20,9 @@ import {MainPageComponent} from "./core/pages/main/main-page.component";
 import {AppGalaryComponent} from "./core/pages/templates-galary/galary.component";
 import {AppLoginComponent} from "./core/pages/login/shared/login.component";
 import {AppLoginCoreComponent} from "./core/pages/login/core/login-core.component";
+import {AppModernExperienceComponent} from "./templates/modern_cv/cv-sections/experience.component";
+import {AppModernPersonalDetailsComponent} from "./templates/modern_cv/cv-sections/personal-details.component";
+import {AppModernNameComponent} from "./templates/modern_cv/cv-sections/name.component";
 
 @NgModule({
   declarations: [
@@ -39,7 +42,10 @@ import {AppLoginCoreComponent} from "./core/pages/login/core/login-core.componen
     MainPageComponent,
     AppGalaryComponent,
     AppLoginComponent,
-    AppLoginCoreComponent
+    AppLoginCoreComponent,
+      AppModernExperienceComponent,
+      AppModernPersonalDetailsComponent,
+      AppModernNameComponent
   ],
   imports: [
     BrowserModule,

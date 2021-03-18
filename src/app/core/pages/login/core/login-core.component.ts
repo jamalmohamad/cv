@@ -8,8 +8,6 @@ import { Component, OnInit } from "@angular/core";
         
         <h2>login core</h2>
         <app-login-component></app-login-component>
-    
-    
     `
 })
 
