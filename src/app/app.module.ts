@@ -23,6 +23,11 @@ import {AppLoginCoreComponent} from "./core/pages/login/core/login-core.componen
 import {AppModernExperienceComponent} from "./templates/modern_cv/cv-sections/experience.component";
 import {AppModernPersonalDetailsComponent} from "./templates/modern_cv/cv-sections/personal-details.component";
 import {AppModernNameComponent} from "./templates/modern_cv/cv-sections/name.component";
+import {AppModEducationComponent} from "./templates/modern_cv/cv-sections/education.component";
+import {AppModReferenceComponent} from "./templates/modern_cv/cv-sections/reference.component";
+import {AppModContactComponent} from "./templates/modern_cv/cv-sections/contact.component";
+import {AppModSkillsComponent} from "./templates/modern_cv/cv-sections/skills.component";
+import {AppModLangComponent} from "./templates/modern_cv/cv-sections/languages.component";
 
 @NgModule({
   declarations: [
@@ -43,9 +48,14 @@ import {AppModernNameComponent} from "./templates/modern_cv/cv-sections/name.com
     AppGalaryComponent,
     AppLoginComponent,
     AppLoginCoreComponent,
-      AppModernExperienceComponent,
-      AppModernPersonalDetailsComponent,
-      AppModernNameComponent
+    AppModernExperienceComponent,
+    AppModernPersonalDetailsComponent,
+    AppModernNameComponent,
+    AppModEducationComponent,
+    AppModReferenceComponent,
+    AppModContactComponent,
+    AppModSkillsComponent,
+      AppModLangComponent
   ],
   imports: [
     BrowserModule,

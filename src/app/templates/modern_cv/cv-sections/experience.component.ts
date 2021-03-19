@@ -9,11 +9,11 @@ import { Component, OnInit } from '@angular/core';
                 <ul class="timeline">
                     <li>
                         <p class="cv-mod-pos-title">Web Developer</p>
-                        <h6 class="float-right" >Oct 2019 - Present</h6>
+                        <h6 class="float-right" >Oct 2019 - Apr 2021</h6>
                         <h6 class="cv-mod-custom-company-title">IBM</h6>
                             <p class="cv-mod-custom-p">- An Internship position</p>
                             <p class="cv-mod-custom-p">- Thesis Research, the outcome is the implementation of End to End Automation Testing with TestCafé and Typescript</p>
-                            <p class="cv-mod-custom-p">- Solving issues for different applications with TypeScript/JavaScript</p>
+                            <p class="cv-mod-custom-p">- Solving issues for different applications with Typescript/Javascript</p>
                             <p class="cv-mod-custom-p">- Apply Bootstrap for different screen sizes</p>
                             <p class="cv-mod-custom-p">- Agile way of working</p>
                             <p class="cv-mod-custom-p">- Learned how to deal with Git version control different commands</p>

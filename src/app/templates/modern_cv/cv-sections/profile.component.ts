@@ -7,7 +7,7 @@ import { Component, OnInit } from "@angular/core";
             <div class="col-md-12">
 
             <h4 class="cv-modern-heading">PROFILE</h4>
-            <p>A developer with 2 years experience in Java, JavaScript, HTML5, CSS3, Spring Boot and Angular6+/ReactJS</p>
+            <p>A developer with 2 years experience in Java, JavaScript, HTML5, CSS3, Spring Boot and Angular6+</p>
 
         </div>
         </div>
