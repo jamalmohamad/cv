@@ -21,7 +21,7 @@ import { Component, OnInit } from '@angular/core';
                     </li>
 
                     <li>
-                        <p class="cv-mod-pos-title">Bachelor of ENG. in Computer <Tech></Tech>nique</p>
+                        <p class="cv-mod-pos-title">Bachelor of ENG. in Computer Technique</p>
                         <h6 class="float-right" >2010 - 2014</h6>
                         <h6 class="cv-mod-custom-company-title">DIJLA UNIVERSITY COLLEGE BAGHDAD</h6>
                     </li>
