@@ -67,10 +67,12 @@ page {
 page[size="A4"] {
     width: 21cm;
     height: 29.7cm;
+
 }
 page[size="A4"][layout="portrait"] {
     width: 29.7cm;
     height: 21cm;
+
 }
 @media print {
     body, page {

@@ -11,11 +11,11 @@ import { Component, OnInit } from '@angular/core';
              <li class="p-font">Agile</li>
              <li class="p-font"><b>Java / JavaEE</b></li>
              <li class="p-font"><b>Spring Boot</b></li>
-             <li class="p-font">ES6 JavaScript/Typescript</li>
+             <li class="p-font"><b>ES6 JavaScript/Typescript</b></li>
              <li class="p-font"><b>Angular 6+</b></li>
              <li class="p-font">SPA</li>
-             <li class="p-font"><b>TestCafé</b></li>
-             <li class="p-font"><b>Cucumber (BDD)</b></li>
+             <li class="p-font">TestCafé</li>
+             <li class="p-font">Cucumber (BDD)</li>
                <li class="p-font"><b>TravisCI</b></li>
              <li class="p-font"><b>Git/Github/Gitlab</b></li>
              <li class="p-font">Ubuntu/MacOSX</li>
