@@ -10,8 +10,8 @@
 ### Todo
 - [X] CV Design Templates
     - [X] basic-cv
-    - [ ] modern-cv
-
+    - [X] modern-cv
+    
 - [ ] create login and logout pages (jwt, token, roles etc..)
 - [ ] create API 
 - [ ] write api unit test
