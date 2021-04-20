@@ -23,9 +23,7 @@
     
 ## Technologies
 - Angular 11
-- Spring Boot 
-- H2 database (for development)
-- JUnit
+
 
 ## How To Run
 - `npm i`
