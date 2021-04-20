@@ -9,7 +9,7 @@ import { Component, OnInit } from '@angular/core';
                 <ul class="timeline">
                     <li>
                         <p class="cv-mod-pos-title">Web Developer</p>
-                        <h6 class="float-right" >Oct 2019 - Apr 2021</h6>
+                        <h6 class="float-right" >Oct 2019 - Present</h6>
                         <h6 class="cv-mod-custom-company-title">IBM</h6>
                             <p class="cv-mod-custom-p">- An Internship position</p>
                             <p class="cv-mod-custom-p">- Thesis Research, the outcome is the implementation of End to End Automation Testing with TestCafé and Typescript</p>
@@ -19,7 +19,7 @@ import { Component, OnInit } from '@angular/core';
                             <p class="cv-mod-custom-p">- Learned how to deal with Git version control different commands</p>
                         
                     </li>
-                    <li>
+                   <!-- <li>
                         <p class="cv-mod-pos-title">Team Leader - Founder of Healthy Fighter Application</p>
                         <h6 class="float-right" >Oct 2019 - Jan 2020</h6>
                         <h6 class="cv-mod-custom-company-title">ELTE</h6>
@@ -28,7 +28,7 @@ import { Component, OnInit } from '@angular/core';
                         <p class="cv-mod-custom-p">- The project Outcome, https://front-healthy-fighter.herokuapp.com/#/login</p>
                         <p class="cv-mod-custom-p">- use</p>
 
-                    </li>
+                    </li> -->
                     <li>
                         <p class="cv-mod-pos-title">Engineer/Freelancer</p>
                         <h6 class="float-right" >Jan 2015 - Jan 2017</h6>

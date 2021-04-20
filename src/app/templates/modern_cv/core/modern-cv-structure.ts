@@ -12,6 +12,7 @@ import { Component, OnInit } from '@angular/core';
                             <app-modern-cv-profile></app-modern-cv-profile>
                             <app-modern-personal-details></app-modern-personal-details>
                             <app-mod-contact-component></app-mod-contact-component>
+                            <app-projects-component></app-projects-component>
                             <app-mod-reference-component></app-mod-reference-component>
                             
                         </div>

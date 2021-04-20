@@ -13,6 +13,7 @@ import { Component, OnInit } from '@angular/core';
                 <p><i class="fas fa-phone"></i>  +36 20 434 6954</p>
                 <p><i class="fab fa-linkedin"></i> linkedin.com/in/mo-j-7b8044173/</p>
                 <p> <i class="fab fa-github"></i> github.com/jamalmohamad</p>
+                <p> <i class="fa fa-globe"></i> https://jamalmohamad.netlify.app/</p>
             </div>
         </div>
     `

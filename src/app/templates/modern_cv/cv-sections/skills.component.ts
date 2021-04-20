@@ -7,7 +7,7 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
     template: `
         <div class="row cv-mod-custom-row2">
             <div class="col-md-12">
-                <h4 class="cv-modern-heading">PROFESSIONAL SKILLS</h4>
+                <h4 class="cv-modern-heading">PROFESSIONAL SKILLS (STACK)</h4>
                 
                 <div class="row ">
                     
@@ -24,7 +24,7 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
                     </div>
 
                     <div class="col-md-3">
-                        <p><i class="fab fa-java"></i> JAVA8</p>
+                        <p><i class="fab fa-angular"></i> Angular6+</p>
                     </div>
                 </div>
 
@@ -36,16 +36,19 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
                     </div>
 
                     <div class="col-md-3">
-                        <p><i class="fab fa-envira"></i> Spring Boot</p>
+                        <p><i class="fas fa-check-circle"></i> NodeJS</p>
                     </div>
 
                     <div class="col-md-3">
-                        <p><i class="fab fa-angular"></i> Angular6+</p>
+                        <p><i class="fas fa-check-circle"></i> MongoDB</p>
                     </div>
+                    
 
                     <div class="col-md-3">
-                        <p><i class="fas fa-database"></i> MySQL</p>
+                        <p><i class="fas fa-check-circle"></i> ExpressJS</p>
                     </div>
+
+                    
                 </div>
 
                 <div class="row">
@@ -80,11 +83,33 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons';
                     </div>
 
                     <div class="col-md-3">
-                        <p><i class="fas fa-check-circle"></i> JAVAEE</p>
+                        <p><i class="fas fa-check-circle"></i> TypeScript</p>
                     </div>
 
                     <div class="col-md-3">
-                        <p><i class="fas fa-check-circle"></i> JPA</p>
+                        <p><i class="fas fa-check-circle"></i> Mocha</p>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-3">
+                        <p><i class="fas fa-check-circle"></i> Sinon</p>
+
+
+                    </div>
+
+                    <div class="col-md-3">
+                        <p><i class="fas fa-check-circle"></i> Chai</p>
+                    </div>
+
+                    <div class="col-md-3">
+                    <p><i class="fas fa-check-circle"></i> Cucumber</p>
+
+                    </div>
+
+                    <div class="col-md-3">
+                    <p><i class="fas fa-check-circle"></i> TestCafé</p>
+
                     </div>
                 </div>
                 

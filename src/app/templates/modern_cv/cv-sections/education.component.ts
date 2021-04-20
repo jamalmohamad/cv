@@ -16,7 +16,7 @@ import { Component, OnInit } from '@angular/core';
 
                     <li>
                         <p class="cv-mod-pos-title">MSc in Computer Science, Specialization in AI</p>
-                        <h6 class="float-right" >Dec 2018 - Jan 2019</h6>
+                        <h6 class="float-right" >Sep 2018 - Jan 2019</h6>
                         <h6 class="cv-mod-custom-company-title">PÉCSI TUDOMANYEGYTEM PÉCS-HUNGARY</h6>
                     </li>
 

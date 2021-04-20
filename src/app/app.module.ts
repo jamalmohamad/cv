@@ -28,6 +28,7 @@ import {AppModReferenceComponent} from "./templates/modern_cv/cv-sections/refere
 import {AppModContactComponent} from "./templates/modern_cv/cv-sections/contact.component";
 import {AppModSkillsComponent} from "./templates/modern_cv/cv-sections/skills.component";
 import {AppModLangComponent} from "./templates/modern_cv/cv-sections/languages.component";
+import { AppProjectsComponent } from './templates/modern_cv/cv-sections/projects.component';
 
 @NgModule({
   declarations: [
@@ -55,7 +56,8 @@ import {AppModLangComponent} from "./templates/modern_cv/cv-sections/languages.c
     AppModReferenceComponent,
     AppModContactComponent,
     AppModSkillsComponent,
-      AppModLangComponent
+      AppModLangComponent,
+      AppProjectsComponent
   ],
   imports: [
     BrowserModule,
